@@ -1,0 +1,1 @@
+export const urlImage="http://localhost/backend/public/images/"
